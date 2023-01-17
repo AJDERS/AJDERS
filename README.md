@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 **I’m currently working on**:
-  - [Hatespeech detection](https://github.com/alexandrainst/hatespeech),
+  - [Hatespeech detection](https://github.com/alexandrainst/hatespeech) together with DR,
   - [Distillation of acoustic models](https://github.com/AJDERS/distill_speech/blob/main/README.md) in collaboration with the [DFM-project](https://pure.au.dk/portal/da/projects/danish-foundation-models(073ab12f-0429-4ce0-877e-3f16eb38242d).html) at AU,
   - [Data collection for Danish ASR models](https://sprogteknologi.dk/blog/sprogteknologisk-konference-2022-afholdt-dansk-sprogteknologi-under-samme-tag-for-en-dag) in the [CoRAL Project](https://sprogtek-ressources.digst.govcloud.dk/Sprogtek2022/slides/Danske%20taledata.pdf) in collaboration with DIGST and DIKU,
   - [Evaluation framework](https://github.com/alexandrainst/AIAI-eval) for general finetuned NLP models,
