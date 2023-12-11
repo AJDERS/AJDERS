@@ -24,6 +24,3 @@ Here are some ideas to get you started:
 
 
 - 😄 **Pronouns**: He/Him
-
-
-- ⚡ **Fun fact**: I run marathons and read books. Currently training for CPH Marathon 2023, and reading War and Peace by Leo Tolstoy (and regretting not learning french in primary school).
